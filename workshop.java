@@ -18,6 +18,8 @@ public class workshop
       System.out.println(v1.age);
       
       System.out.println(workshop.qty);
+      System.out.println("Third week of programming.");
+      
       
     
     
